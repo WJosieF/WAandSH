@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28B24390-E7F7-4F56-A83E-7E6FAF883E8A}|OpenGL02SH.vcxproj|C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\OpenGL02SH.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28B24390-E7F7-4F56-A83E-7E6FAF883E8A}|OpenGL02SH.vcxproj|solutionrelative:OpenGL02SH.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B24390-E7F7-4F56-A83E-7E6FAF883E8A}|OpenGL02SH.vcxproj|C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\SH_Algorithm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28B24390-E7F7-4F56-A83E-7E6FAF883E8A}|OpenGL02SH.vcxproj|solutionrelative:SH_Algorithm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B24390-E7F7-4F56-A83E-7E6FAF883E8A}|OpenGL02SH.vcxproj|C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\WA_Algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28B24390-E7F7-4F56-A83E-7E6FAF883E8A}|OpenGL02SH.vcxproj|solutionrelative:WA_Algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B24390-E7F7-4F56-A83E-7E6FAF883E8A}|OpenGL02SH.vcxproj|C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\SH_Algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28B24390-E7F7-4F56-A83E-7E6FAF883E8A}|OpenGL02SH.vcxproj|solutionrelative:SH_Algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B24390-E7F7-4F56-A83E-7E6FAF883E8A}|OpenGL02SH.vcxproj|C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\WA_Algorithm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28B24390-E7F7-4F56-A83E-7E6FAF883E8A}|OpenGL02SH.vcxproj|solutionrelative:WA_Algorithm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B24390-E7F7-4F56-A83E-7E6FAF883E8A}|OpenGL02SH.vcxproj|C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28B24390-E7F7-4F56-A83E-7E6FAF883E8A}|OpenGL02SH.vcxproj|solutionrelative:Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WA_Algorithm.cpp",
+              "DocumentMoniker": "C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\WA_Algorithm.cpp",
+              "RelativeDocumentMoniker": "WA_Algorithm.cpp",
+              "ToolTip": "C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\WA_Algorithm.cpp",
+              "RelativeToolTip": "WA_Algorithm.cpp",
+              "ViewState": "AgIAABYBAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-12T03:19:20.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Common.h",
+              "DocumentMoniker": "C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\Common.h",
+              "RelativeDocumentMoniker": "Common.h",
+              "ToolTip": "C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\Common.h",
+              "RelativeToolTip": "Common.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-12T03:20:24.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WA_Algorithm.h",
+              "DocumentMoniker": "C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\WA_Algorithm.h",
+              "RelativeDocumentMoniker": "WA_Algorithm.h",
+              "ToolTip": "C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\WA_Algorithm.h",
+              "RelativeToolTip": "WA_Algorithm.h",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-12T03:19:38.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SH_Algorithm.cpp",
+              "DocumentMoniker": "C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\SH_Algorithm.cpp",
+              "RelativeDocumentMoniker": "SH_Algorithm.cpp",
+              "ToolTip": "C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\SH_Algorithm.cpp",
+              "RelativeToolTip": "SH_Algorithm.cpp",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-12T03:18:30.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SH_Algorithm.h",
+              "DocumentMoniker": "C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\SH_Algorithm.h",
+              "RelativeDocumentMoniker": "SH_Algorithm.h",
+              "ToolTip": "C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\SH_Algorithm.h",
+              "RelativeToolTip": "SH_Algorithm.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-12T03:18:03.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenGL02SH.cpp",
+              "DocumentMoniker": "C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\OpenGL02SH.cpp",
+              "RelativeDocumentMoniker": "OpenGL02SH.cpp",
+              "ToolTip": "C:\\VisualStudio_Projects\\Homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66OpenGL\\\u4E0A\u673A2\\OpenGL02SH\\OpenGL02SH.cpp",
+              "RelativeToolTip": "OpenGL02SH.cpp",
+              "ViewState": "AgIAAKMBAAAAAAAAAAAcwK8BAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-09T08:13:31.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
